@@ -1,2 +1,6 @@
 test.py
 __pycache__/
+Pipfile*
+build/
+dist/
+*.egg-info/
